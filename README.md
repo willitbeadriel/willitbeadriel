@@ -1,3 +1,3 @@
 My name is Adriel, I'm a high school student in Manaus, Amazonas, Brazil
 
-<img width="441" height="461" alt="6833e77f7036bb6c0868f36e97f59fe1" src="https://github.com/user-attachments/assets/46e98340-d814-4f7f-b4ab-6a1b1d4f1cda" />
+<img width="240" height="240" alt="17721ce464baa60c3f3df2b3a2576e2a" src="https://github.com/user-attachments/assets/c9c17e4b-0cb2-48fc-abc1-a6491304e45e" />
